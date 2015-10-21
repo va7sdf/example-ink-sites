@@ -40,3 +40,14 @@ A list of sites using the SAPO Ink interface kit (http://ink.sapo.pt).
 | **SINFO** http://sinfo.org/ | ![SINFO](./screenshots/sinfo.org.png) |
 | **Start playing! - Livebots** http://livebots.azurewebsites.net/ | ![Start playing! - Livebots](./screenshots/livebots.azurewebsites.net.png) |
 | **Sampaio da Nóvoa** http://www.sampaiodanovoa.pt/ | ![Sampaio da Nóvoa](./screenshots/www.sampaiodanovoa.pt.png) |
+
+## Contribution Guidelines
+
+- Make an individual pull request (or GitHub issue) for each suggestion.
+- Verify the site is using *Ink*.  (Probably easiest to look for Ink specific classes, such as ```ink-grid```, in the source.)
+- Use the following format, |``` TITLE + LINK | SCREENSHOT |```, where the title is the same as that on the home (or initial) page of the site.
+- Include a screenshot of the site in the ```screenshots``` directory; and, ensure the screenshot is:
+  - Saved as a PNG with the full domain name as the filename.  (If multiple sites appear under the same domain, as the case with the SAPO Blog templates, use the page filename as the image filename.
+  - Resized to 600px wide and retains the same proportions as the original.
+  - Contains the top of the home (or initial) page of the site and no window decoration or browser elements.
+- Order sites alphabetically within the appropriate category.
