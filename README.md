@@ -5,6 +5,7 @@ A list of sites using the SAPO Ink interface kit (http://ink.sapo.pt).
 ### SAPO Family
 | Site | Screenshot |
 | ---- | ---- |
+| **MEO Music** https://music.meo.pt/ | ![MEO Music](./screenshots/music.meo.pt.png) |
 | **SAPO Blogs template: Chocolate** http://blogs.sapo.pt/customize/preview/E14_Chocolate.bml | ![SAPO Blogs template: Chocolate](./screenshots/E14_Chocolate.bml.png) |
 | **SAPO Blogs template: Clássico** http://blogs.sapo.pt/customize/preview/E14_Classico.bml | ![SAPO Blogs template: Clássico](./screenshots/E14_Classico.bml.png) |
 | **SAPO Blogs template: Crafty** http://blogs.sapo.pt/customize/preview/E14_Crafty.bml | ![SAPO Blogs template: Crafty](./screenshots/E14_Crafty.bml.png) |
@@ -26,3 +27,7 @@ A list of sites using the SAPO Ink interface kit (http://ink.sapo.pt).
 | **SAPO Blogs template: Sobrescrito** http://blogs.sapo.pt/customize/preview/E15_Sobrescrito.bml | ![SAPO Blogs template: Sobrescrito](./screenshots/E15_Sobrescrito.bml.png) |
 | **SAPO Blogs template: Vogue** http://blogs.sapo.pt/customize/preview/E15_Vogue.bml | ![SAPO Blogs template: Vogue](./screenshots/E15_Vogue.bml.png) |
 | **SAPO Blogs template: Hora de Ponta** http://blogs.sapo.pt/customize/preview/E15_horadeponta.bml | ![SAPO Blogs template: Hora de Ponta](./screenshots/E15_horadeponta.bml.png) |
+| **SAPO Codebits** https://codebits.eu/ | ![SAPO Codebits](./screenshots/codebits.eu.png) |
+| **SAPO Ink Interface Kit** http://ink.sapo.pt/ | ![SAPO Ink Interface Kit](./screenshots/ink.sapo.pt.png) |
+| **SAPO Lifesytle portal** http://lifestyle.sapo.pt/ | ![SAPO Lifestyle](./screenshots/lifestyle.sapo.pt.png) |
+| **SAPO Corporate site** http://sobre.sapo.pt/pt-pt | ![SAPO Corporate site](./screenshots/sobre.sapo.pt.png) |
