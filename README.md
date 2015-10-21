@@ -31,3 +31,12 @@ A list of sites using the SAPO Ink interface kit (http://ink.sapo.pt).
 | **SAPO Ink Interface Kit** http://ink.sapo.pt/ | ![SAPO Ink Interface Kit](./screenshots/ink.sapo.pt.png) |
 | **SAPO Lifesytle portal** http://lifestyle.sapo.pt/ | ![SAPO Lifestyle](./screenshots/lifestyle.sapo.pt.png) |
 | **SAPO Corporate site** http://sobre.sapo.pt/pt-pt | ![SAPO Corporate site](./screenshots/sobre.sapo.pt.png) |
+
+### Others
+| Site | Screenshot |
+| ---- | ---- |
+| **Celso Martinho - Blog** http://celso.io/ | ![Celso Martinho - Blog](./screenshots/celso.io.png) |
+| **obvious - um olhar mais demorado** http://obviousmag.org/ | ![obvious - um olhar mais demorado](./screenshots/obviousmag.org.png) |
+| **SINFO** http://sinfo.org/ | ![SINFO](./screenshots/sinfo.org.png) |
+| **Start playing! - Livebots** http://livebots.azurewebsites.net/ | ![Start playing! - Livebots](./screenshots/livebots.azurewebsites.net.png) |
+| **Sampaio da Nóvoa** http://www.sampaiodanovoa.pt/ | ![Sampaio da Nóvoa](./screenshots/www.sampaiodanovoa.pt.png) |
